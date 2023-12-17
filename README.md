@@ -1,5 +1,5 @@
 # Mistral7b-Bhagavad-Gita-RAG-AI-Bot
-🐣 Please follow me for new updates https://twitter.com/camenduru <br />
+🐣 Please follow me for new updates https://github.com/shrimantasatpati <br />
 
 # 🚦 WIP 🚦
 
