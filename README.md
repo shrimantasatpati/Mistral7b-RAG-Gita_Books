@@ -1,5 +1,7 @@
 # Mistral7b-Bhagavad-Gita-RAG-AI-Bot
-<img src="assets/Image3.jpg" width="400">
+<div style="text-align:center;">
+    <img src="path/to/your/image.jpeg" width="400">
+</div>
 🐣 Please follow me for new updates https://github.com/shrimantasatpati <br />
 
 # 🚦 WIP 🚦
