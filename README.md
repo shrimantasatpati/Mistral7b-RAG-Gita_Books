@@ -5,7 +5,7 @@
 Deployments coming soon!
 
 ### Technology Stack
-1. FAISS vector database
+1. [FAISS](https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/) - Vector database
 2. Google Colab - Development/ Inference using T4 GPU
 3. [Gradio](https://www.gradio.app/) - Web UI, inference using free-tier Colab T4 GPU
 4. [HuggingFace](https://huggingface.co/) - Transformer, Sentence transformers (for creating vector embeddings), Mistral7b quantized model
