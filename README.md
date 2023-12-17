@@ -16,7 +16,7 @@ Deployments coming soon!
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Mistral-colab/blob/main/Mistral_colab.ipynb) | Mistral_colab (Creating FAISS vector database from Kaggle dataset)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Mistral-colab/blob/main/Mistral_colab.ipyn) | Mistral_colab (Creating FAISS vector database from Kaggle dataset)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Mistral-colab/blob/main/Mistral_text_generation_webui.ipynb) | Mistral_text_generation_webui (8bit)
 
 
