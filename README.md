@@ -28,6 +28,7 @@ Deployments coming soon!
 
 ### Dataset
 - See - [Kaggle Dataset](https://www.kaggle.com/datasets/shrimantasatpati/bhagavad-gita-english)
+- 150 books, 37486 pages are there.
 
 ### FAISS vector embeddings
 - Using sentence-transformers/all-MiniLM-L6-V2 from [Huggingface](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
