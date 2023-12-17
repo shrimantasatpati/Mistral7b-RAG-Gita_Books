@@ -1,5 +1,5 @@
 # Mistral7b-Bhagavad-Gita-RAG-AI-Bot
-![Image3](assets/Image3.jpeg){ width=50% }
+<img src="assets/Image3.jpeg" width="400">
 🐣 Please follow me for new updates https://github.com/shrimantasatpati <br />
 
 # 🚦 WIP 🚦
