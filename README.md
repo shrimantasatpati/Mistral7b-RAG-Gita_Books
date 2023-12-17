@@ -17,7 +17,7 @@ Deployments coming soon!
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/shrimantasatpati/Mistral7b-Bhagavad-Gita-RAG-AI-Bot/blob/main/Creating%20FAISS%20vector%20database%20for%20RAG.ipynb) | Creating FAISS vector database from Kaggle dataset
-[![Open In Colab](https://github.com/shrimantasatpati/Mistral7b-Bhagavad-Gita-RAG-AI-Bot/blob/main/Mistral7b_Inference_RAG_Bhagavad_Gita.ipynb) | Mistral7b (4bit) RAG Inference of Bhagavad Gita using Gradio
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/shrimantasatpati/Mistral7b-Bhagavad-Gita-RAG-AI-Bot/blob/main/Mistral7b_Inference_RAG_Bhagavad_Gita.ipynb) | Mistral7b (4bit) RAG Inference of Bhagavad Gita using Gradio
 
 
 Using BitandBytes configurations (load_in_4bit) for quantization - A bit loss in precision, but performance is almost at par with the Mistral7b (base) model. HuggingFace pipeline for "text-generation". AutoTokenizer and AutoModelforCasualLM from "transformers" for tokenization and loading model from HuggingFace Spaces.
