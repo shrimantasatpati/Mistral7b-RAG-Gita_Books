@@ -1,4 +1,5 @@
 # Mistral7b-Bhagavad-Gita-RAG-AI-Bot
+![Image3](assets/Image3.jpeg)
 🐣 Please follow me for new updates https://github.com/shrimantasatpati <br />
 
 # 🚦 WIP 🚦
