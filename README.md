@@ -20,6 +20,8 @@ Deployments coming soon!
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/shrimantasatpati/Mistral7b-Bhagavad-Gita-RAG-AI-Bot/blob/main/Mistral7b_Inference_RAG_Bhagavad_Gita.ipynb) | Mistral7b (4bit) RAG Inference of Bhagavad Gita using Gradio
 
 
+- Store the vector database in your Google Drive in the following format "vectorstore/db_faiss". The db_faiss contains the following: index.faiss and index.pkl.
+- Mount the Google Drive to load the vector embeddings for inference. (Mistral7b (4bit) RAG Inference of Bhagavad Gita using Gradio)
 - Using BitandBytes configurations (load_in_4bit) for quantization - A bit loss in precision, but performance is almost at par with the Mistral7b (base) model.
 - HuggingFace pipeline for "text-generation".
 - AutoTokenizer and AutoModelforCasualLM from "transformers" for tokenization and loading [Mistral7b](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1) model from HuggingFace Spaces.
