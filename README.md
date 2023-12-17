@@ -18,12 +18,10 @@ Deployments coming soon!
 ## Main Repo
 https://github.com/mistralai/mistral-src <br />
 
-## Paper
-https://mistral.ai/news/announcing-mistral-7b/ <br />
-https://arxiv.org/abs/2212.04356 <br />
-
-## Page
-https://mistral.ai/
+## Paper/ Website
+- https://mistral.ai/news/announcing-mistral-7b/ <br />
+- https://arxiv.org/abs/2212.04356 <br />
+- https://mistral.ai/
 
 ## Output
 ![image](https://github.com/camenduru/Mistral-colab/assets/54370274/7d74acf5-4659-4235-be6d-75b4396520d9)
