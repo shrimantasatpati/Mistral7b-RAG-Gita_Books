@@ -26,7 +26,7 @@ Using BitandBytes configurations (load_in_4bit) for quantization - A bit loss in
 - See - [Kaggle Dataset](https://www.kaggle.com/datasets/shrimantasatpati/bhagavad-gita-english)
 
 ### FAISS vector embeddings
-- Using sentence-transformers/all-Mini-L6-V2 from [Huggingface]()
+- Using sentence-transformers/all-MiniLM-L6-V2 from [Huggingface](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 - Vector database - [Google Drive](https://drive.google.com/drive/folders/1SVZEN9426k0MPibo4CjhbBcG1ZRa-Oo1?usp=drive_link)
 
 ## Main Repo
@@ -37,9 +37,7 @@ https://github.com/mistralai/mistral-src <br />
 - https://arxiv.org/abs/2212.04356 <br />
 - https://mistral.ai/
 
-
-
 ## Output
-![image](https://github.com/camenduru/Mistral-colab/assets/54370274/7d74acf5-4659-4235-be6d-75b4396520d9)
+![image]()
 
-![Screenshot 2023-10-09 195917](https://github.com/camenduru/Mistral-colab/assets/54370274/3d691d32-bbea-4d3e-988e-b37b3db5c83e)
+![Screenshot 2023-10-09 195917]()
