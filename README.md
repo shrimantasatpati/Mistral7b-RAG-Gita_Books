@@ -42,6 +42,6 @@ https://github.com/mistralai/mistral-src <br />
 - https://mistral.ai/
 
 ## Output
-![image]()
+![Image1](assets/Image1.jpeg)
 
-![Screenshot 2023-10-09 195917]()
+![Image2](assets/Image2.jpeg)
