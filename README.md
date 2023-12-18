@@ -47,3 +47,6 @@ https://github.com/mistralai/mistral-src <br />
 ![Image1](assets/Image1.jpeg)
 
 ![Image2](assets/Image2.jpeg)
+
+## Contributor
+[Shrimanta Satpati](https://github.com/shrimantasatpati)
